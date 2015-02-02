@@ -1,0 +1,3 @@
+需要修改build/core/qcom_utils.mk 加一句：
+QCOM_BOARD_PLATFORMS += msm8939
+

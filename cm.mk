@@ -14,5 +14,5 @@ $(call inherit-product, device/samsung/a7ltechn/device_a7ltechn.mk)
 PRODUCT_DEVICE := a7ltechn
 PRODUCT_NAME := cm_a7ltechn
 PRODUCT_BRAND := samsung
-PRODUCT_MODEL := a7ltechn
+PRODUCT_MODEL := SM-A7000
 PRODUCT_MANUFACTURER := samsung
